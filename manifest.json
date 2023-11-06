@@ -1,6 +1,6 @@
 {
-    "name": "qr_code_generation",
-    "short_name": "qr_code_generation",
+    "name": "tourist_guide_web_web",
+    "short_name": "tourist_guide_web_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
